@@ -47,7 +47,8 @@ main{
 .descripcionCafe p{
     margin: 10px;
     line-height: 1.2;
-    width: 80%;
+    width: 60%;
+    height: 500px;
 }
 
 .cafe{
